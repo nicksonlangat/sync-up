@@ -1,19 +1,13 @@
-# sync-up
+# About SyncUp
+My exploration of building a video conferencing app for remote teams.\
+This is built using Vue Js and Tailwind CSS.
 
-## Project setup
-```
-npm install
-```
+Explore the live version via 
+<a href="https://sync-up-dun.vercel.app/home/"> this link</a>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+It looks like below:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<img src="screens/1.png" width="900"/>
+<img src="screens/2.png" width="900"/>
