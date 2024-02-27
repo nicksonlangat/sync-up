@@ -365,3 +365,8 @@ export default {
   }
 }
 </script>
+<style>
+body, html {
+   background-color: #ffffff;
+}
+</style>
